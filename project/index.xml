@@ -17,7 +17,13 @@
       <link>https://zjuiuczy.github.io/project/react_blog/</link>
       <pubDate>Thu, 16 Jul 2020 16:37:21 -0500</pubDate>
       <guid>https://zjuiuczy.github.io/project/react_blog/</guid>
-      <description>&lt;p&gt;This blog system is driven by React, Next.js, Egg.js, MySQL and Antd Design.&lt;/p&gt;
+      <description>&lt;p&gt;This blog system is driven by React Hooks, Next.js, Egg.js, MySQL and Antd Design. You can check the code in my github 
+&lt;a href=&#34;https://github.com/zjuiuczy/react_blog&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repo&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Build front-end&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Build the middleware and connect with frontend&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Build backstage management system&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
