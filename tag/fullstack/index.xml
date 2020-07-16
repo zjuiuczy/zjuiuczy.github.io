@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fullstack | Zhaoyu Cheng</title>
+    <link>https://zjuiuczy.github.io/tag/fullstack/</link>
+      <atom:link href="https://zjuiuczy.github.io/tag/fullstack/index.xml" rel="self" type="application/rss+xml" />
+    <description>fullstack</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jul 2020 16:37:21 -0500</lastBuildDate>
+    <image>
+      <url>https://zjuiuczy.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>fullstack</title>
+      <link>https://zjuiuczy.github.io/tag/fullstack/</link>
+    </image>
+    
+    <item>
+      <title>React_blog</title>
+      <link>https://zjuiuczy.github.io/project/react_blog/</link>
+      <pubDate>Thu, 16 Jul 2020 16:37:21 -0500</pubDate>
+      <guid>https://zjuiuczy.github.io/project/react_blog/</guid>
+      <description>&lt;p&gt;This blog system is driven by React, Next.js, Egg.js, MySQL and Antd Design.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
