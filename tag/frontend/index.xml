@@ -18,7 +18,8 @@
       <pubDate>Wed, 15 Jul 2020 22:36:19 -0500</pubDate>
       <guid>https://zjuiuczy.github.io/project/google/</guid>
       <description>&lt;p&gt;This is the fianl project for CS411 at UIUC. We processed a 10GB database and you can check our website 
-&lt;a href=&#34;https://teamace--google-scholar.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://teamace--google-scholar.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and our source code 
+&lt;a href=&#34;https://github.com/zjuiuczy/Google-Scholar-Data-Visualization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Built a web application using &lt;strong&gt;React&lt;/strong&gt;, &lt;strong&gt;Apollo&lt;/strong&gt; and &lt;strong&gt;GraphQL&lt;/strong&gt; that can visualize the trends of popular
 topics and corresponding publications, visualize the most cited authors and articles, find the connections between different authors and search with keywords&lt;/li&gt;
