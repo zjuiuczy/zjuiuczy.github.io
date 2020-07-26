@@ -13,11 +13,15 @@
     </image>
     
     <item>
-      <title>Terrasentia</title>
+      <title>Terrasentia Robot</title>
       <link>https://zjuiuczy.github.io/project/terrasentia/</link>
       <pubDate>Thu, 16 Jul 2020 00:16:30 -0500</pubDate>
       <guid>https://zjuiuczy.github.io/project/terrasentia/</guid>
-      <description>&lt;p&gt;This is a robotics project.&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;Utilized &lt;strong&gt;LiDAR&lt;/strong&gt; and camera to help robot navigate autonomously under crop canopy&lt;/li&gt;
+&lt;li&gt;Designed failure self-recovery strategies using Markov Decision Process to reduce labor costs&lt;/li&gt;
+&lt;li&gt;Studied how to use &lt;strong&gt;Gazebo&lt;/strong&gt; to simulate the robot&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
