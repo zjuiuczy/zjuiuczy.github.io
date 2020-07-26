@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>React_blog</title>
+      <title>Fullstack Blog System</title>
       <link>https://zjuiuczy.github.io/project/react_blog/</link>
       <pubDate>Thu, 16 Jul 2020 16:37:21 -0500</pubDate>
       <guid>https://zjuiuczy.github.io/project/react_blog/</guid>
@@ -22,8 +22,37 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Build front-end&lt;/li&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Build the middleware and connect with frontend&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Build backstage management system&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Build backstage management system&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;front-end&#34;&gt;Front End&lt;/h1&gt;
+&lt;h2 id=&#34;main-page&#34;&gt;Main Page&lt;/h2&gt;
+&lt;p&gt;This is the main page for this Blog, it basically consists of top and recent articles, the self introduction, the header and some place for advertisement.
+&lt;img src=&#34;main.jpg&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;article&#34;&gt;Article&lt;/h3&gt;
+&lt;p&gt;You can easily check the addtime, type and view count of this article and get access to full text.
+&lt;img src=&#34;article.jpg&#34; alt=&#34;article&#34;&gt;
+The main page is built with code highlighter
+&lt;img src=&#34;code.jpg&#34; alt=&#34;code&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;list&#34;&gt;List&lt;/h2&gt;
+&lt;p&gt;You can check the list of articles in certain types here. In the picture below, the &amp;ldquo;Article&amp;rdquo; list of articles are shown.
+&lt;img src=&#34;list.jpg&#34; alt=&#34;list&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;detailed-page&#34;&gt;Detailed Page&lt;/h2&gt;
+&lt;p&gt;The detailed page supports &lt;strong&gt;Markdown&lt;/strong&gt; and &lt;strong&gt;syntax highlighting&lt;/strong&gt; with the help of &lt;code&gt;highlight.js&lt;/code&gt; and &lt;code&gt;marked&lt;/code&gt;.
+&lt;img src=&#34;long.jpg&#34; alt=&#34;detailed&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;framework&#34;&gt;Framework&lt;/h1&gt;
+&lt;p&gt;I used 
+&lt;a href=&#34;https://eggjs.org/en/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;egg.js&lt;/a&gt;, which was invented by Alibaba Group on the basis of the KOA.js.&lt;/p&gt;
+&lt;h1 id=&#34;backstage&#34;&gt;BackStage&lt;/h1&gt;
+&lt;h2 id=&#34;login-page&#34;&gt;Login page&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;login.jpg&#34; alt=&#34;login&#34;&gt;
+&lt;img src=&#34;check.jpg&#34; alt=&#34;check&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;list-1&#34;&gt;List&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;bli.jpg&#34; alt=&#34;bli&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;addarticle&#34;&gt;AddArticle&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;add.jpg&#34; alt=&#34;add&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;intime-preview&#34;&gt;Intime Preview&lt;/h2&gt;
+&lt;p&gt;The adding article function supports intime preview for what you are writing
+&lt;img src=&#34;pre.jpg&#34; alt=&#34;pre&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
