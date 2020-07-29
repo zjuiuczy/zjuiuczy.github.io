@@ -50,8 +50,8 @@ The main page is built with code highlighter
 &lt;p&gt;&lt;img src=&#34;bli.jpg&#34; alt=&#34;bli&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;addarticle&#34;&gt;AddArticle&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;add.jpg&#34; alt=&#34;add&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;intime-preview&#34;&gt;Intime Preview&lt;/h2&gt;
-&lt;p&gt;The adding article function supports intime preview for what you are writing
+&lt;h2 id=&#34;real-time-preview&#34;&gt;Real-time Preview&lt;/h2&gt;
+&lt;p&gt;The adding article function supports real-time preview for what you are writing
 &lt;img src=&#34;pre.jpg&#34; alt=&#34;pre&#34;&gt;&lt;/p&gt;
 </description>
     </item>
